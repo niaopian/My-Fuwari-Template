@@ -7,6 +7,7 @@ image: ''
 tags: [Demo, Example, Markdown, Fuwari]
 category: 'Examples'
 draft: false 
+series: Demo
 ---
 
 ## GitHub Repository Cards
